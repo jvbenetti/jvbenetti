@@ -4,7 +4,7 @@
 
 
 - 🎓 Software Engineer – **UNIJUÍ**
-- 💡 Currently improving skills in **Modern Python**, **Rest-framework**, and **UIkit**
+- 💡 Currently improving skills in **Modern Python**, **Rest-framework**, and **Golang**
 - 📬 Contact: [filipimjoa@gmail.com](mailto:filipimjoa@gmail.com)
 
 ## ⚙️ Skills
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,py,django,golang,swift,bootstrap,vue,typescript" />
+    <img src="https://skillicons.dev/icons?i=git,docker,py,django,golang,swift,bootstrap,typescript" />
   </a>
 </p>
 
