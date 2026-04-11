@@ -24,12 +24,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/joão-víctor-benetti-f-09b500295/)
 
-<div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JaoVicy&theme=github_dark" alt="Top languages by repo badge"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JaoVicy&theme=github_dark" alt="Top languages by commit badge"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaoVicy&theme=github_dark" alt="Profile details badge"/>
-</div>
-
 ###
 
 
